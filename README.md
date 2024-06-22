@@ -1,0 +1,2 @@
+# findtrendclone
+Findtrend clone project
